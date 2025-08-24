@@ -29,21 +29,29 @@ Power BI (for visualization, optional)
 
 # 📂 Repository Structure
 ├── AI-Powered Sales Forecasting Dashboard.ipynb   # Main notebook
+
 ├── data/                                          # Dataset (not included in repo if confidential)
+
 ├── README.md                                      # Project documentation
 
 # 📊 Sample Output
 •	Forecast plots for future sales
+
 •	Model comparison metrics (RMSE, MAPE, etc.)
+
 •	Interactive dashboard (if integrated with Power BI)
 
 # 🔮 Future Scope
 •	Integration with real-time sales data
+
 •	Deployment as a Streamlet dashboard
+
 •	Adding deep learning models like LSTMs/Transformers
+
 •	Automating data refresh in Power BI
 
 # 🙌 Acknowledgments
 •	Inspired by real-world retail forecasting problems
+
 •	Libraries: Prophet (Meta), XGBoost, Scikit-learn, Pandas
 
